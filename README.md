@@ -1,2 +1,2 @@
 # Calculator
-Simple app to start with RSpec
+Simple project to get started with RSpec
